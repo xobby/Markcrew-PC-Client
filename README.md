@@ -9,5 +9,5 @@ Webview sometimes doesn't start
 # Downloads
 
 Go in Releases and download the zip.
-[Download](https://github.com/xobby/Markcrew-PC-Client/releases/tag/Release)
 
+[Download](https://github.com/xobby/Markcrew-PC-Client/releases/tag/Release)
